@@ -26,7 +26,7 @@
 </p>
 
 > [!NOTE]
-> uYouPlus is a **modified version** of uYou. **Please DO NOT bother MiRO92 with issues unrelated to uYou!**
+> uYouPlus is a **unmodified version** of uYou. **Please DO NOT bother MiRO92 with issues unrelated to uYou!**
 
 ## Table of contents
 
